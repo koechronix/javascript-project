@@ -9,3 +9,5 @@ let temp = document.querySelector(".temp");
 let wind = document.querySelector(".wind");
 let humidity = document.querySelector(".humi");
 let icon = document.querySelector(".icon");
+
+error = document.querySelector(".error");
