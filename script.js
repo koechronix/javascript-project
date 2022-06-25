@@ -30,7 +30,7 @@ function conversion(val) {
       return response.json();
     })
     .then((data) => {
-      console.log(data);
+    //   console.log(data);
       let nameValue = data["name"];
       let humidityValue = data["main"]["humidity"];
       let tempValue = data["main"]["temp"];
