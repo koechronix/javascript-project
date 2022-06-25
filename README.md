@@ -88,3 +88,9 @@ where; {City Name = Name of your city you intent to such}
 # Hi, I'm Amos Koech{Ronix}! 👋
 I 'm currently studying Software Engineering, and aspiring to to be Full Stack Developer.
 
+## Tech Stack
+
+**client:** HTML, CSS and JAVASCRIPT
+
+**Server:** JSON
+
