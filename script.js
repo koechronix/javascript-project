@@ -11,3 +11,5 @@ let humidity = document.querySelector(".humi");
 let icon = document.querySelector(".icon");
 
 error = document.querySelector(".error");
+
+let apiKey = "f3df101137850d0a96e0263ad269fdc4";
