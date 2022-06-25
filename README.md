@@ -84,3 +84,7 @@ where; {City Name = Name of your city you intent to such}
 ## Authors
 
 - [@koechronix](https://www.github.com/koechronix)
+
+# Hi, I'm Amos Koech{Ronix}! 👋
+I 'm currently studying Software Engineering, and aspiring to to be Full Stack Developer.
+
