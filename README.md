@@ -78,3 +78,5 @@ where; {City Name = Name of your city you intent to such}
   though this steps;1.Open My Weather-App
                     2.Right click and go to the option (Inpect) you will see all all details.
 
+## Link to OpenWeatherMap
+-https://openweathermap.org/current
