@@ -13,3 +13,9 @@ let icon = document.querySelector(".icon");
 error = document.querySelector(".error");
 
 let apiKey = "f3df101137850d0a96e0263ad269fdc4";
+
+// kelvin to celsius
+function conversion(val) {
+    return (val - 273).toFixed(2);
+  }
+  
