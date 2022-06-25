@@ -80,3 +80,7 @@ where; {City Name = Name of your city you intent to such}
 
 ## Link to OpenWeatherMap
 -https://openweathermap.org/current
+
+## Authors
+
+- [@koechronix](https://www.github.com/koechronix)
